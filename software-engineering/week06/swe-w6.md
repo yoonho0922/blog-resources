@@ -174,3 +174,9 @@ EAC (Estimate at Completion)
 ### EVM 그래프
 
 ![image-20210412104601995.png](https://github.com/yoonho0922/blog-resources/blob/master/software-engineering/week06/image-20210412104601995.png?raw=true)
+
+----
+
+reference
+
+- 상명대학교 한종대교수님 소프트웨어공학 수업
